@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Tableau, Power Bi and exploring through the Analytics domain to build my skills further**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Amreenski?tab=repositories](https://github.com/Amreenski?tab=repositories)
+
 - 📫 How to reach me **kaziamreen1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
